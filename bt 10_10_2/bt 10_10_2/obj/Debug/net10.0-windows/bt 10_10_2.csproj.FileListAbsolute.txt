@@ -1,0 +1,17 @@
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\bin\Debug\net10.0-windows\bt 10_10_2.exe
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\bin\Debug\net10.0-windows\bt 10_10_2.deps.json
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\bin\Debug\net10.0-windows\bt 10_10_2.runtimeconfig.json
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\bin\Debug\net10.0-windows\bt 10_10_2.dll
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\bin\Debug\net10.0-windows\bt 10_10_2.pdb
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt_10_10_2.Form1.resources
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.csproj.GenerateResource.cache
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.AssemblyInfoInputs.cache
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.AssemblyInfo.cs
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.csproj.CoreCompileInputs.cache
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.dll
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\refint\bt 10_10_2.dll
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.pdb
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.genruntimeconfig.cache
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\ref\bt 10_10_2.dll
+D:\Lập trình.net\bt 10_10_2\bt 10_10_2\obj\Debug\net10.0-windows\bt 10_10_2.csproj.Up2Date
